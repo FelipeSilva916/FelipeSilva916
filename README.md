@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FelipeSilva916
 - 👀 I’m interested in photography.
 - 🌱 I’m currently learning HTML, CSS basics.
-- 💞️ I’m looking to collaborate on I still have no idea
 - 📫 How to reach me felipe@felipesilvaphotography.com
 
 <!---
